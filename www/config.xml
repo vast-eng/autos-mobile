@@ -4,12 +4,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        version   = "0.0.1">
 
     <name>Vast Autos Mobile Marketplace</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Vast is the leader in big data for the automotive industry.  Use this app to search millions of listings in real time.
     </description>
 
     <author href="http://www.vast.com" email="support@vast.com">
